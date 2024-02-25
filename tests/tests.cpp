@@ -66,11 +66,6 @@ void test_Wordlist()
 
     cout << "All Done!" << endl;
 
-    //
-    // Add more test cases here. Use assert or if-statements to automatically
-    // check the correctness of your code.
-    //
-
 } // test_Wordlist
 
 int main()
