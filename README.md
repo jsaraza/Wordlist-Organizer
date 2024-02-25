@@ -17,7 +17,7 @@ for one case described below: the method `get_sorted_index()`, which returns a
 **Note** You can download all the files for this assignment in a single .zip
 Click on the green "Code" button, and then click on "Download ZIP".
 
-### Implement the Methods in Wordlist_base
+### Implemention of Methods in Wordlist_base
 
 The implementation of `Wordlist` in [Wordlist.h](Wordlist.h). It will
 publicly inherit from `Wordlist_base`, and use the `Node` `struct` (given in
@@ -26,7 +26,7 @@ publicly inherit from `Wordlist_base`, and use the `Node` `struct` (given in
 [Wordlist.h](Wordlist.h) has the class `Wordlist` where it implements all
 the virtual methods listed in the `Wordlist_base` class (in [Wordlist_base.h](Wordlist_base.h)).
 
-### Implement Constructors, and a Destructor
+### Implemention of Constructors, and a Destructor
 
 In addition to the virtual methods listed in `Wordlist_base`, in your `Wordlist`
 
