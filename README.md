@@ -13,6 +13,12 @@ for one case described below: the method `get_sorted_index()`, which returns a
 
 [a1_main.cpp](a1_main.cpp). In `main` you should call the testing code for your
 `Wordlist` class.
+=======
+
+> **Note** You can download all the files for this assignment in a single .zip
+> Click on the green "Code" button, and then click on "Download ZIP".
+>
+> > > > > > > 0e50674132cb68458403319893ecf13323679e75
 
 > **Note** You can download all the files for this assignment in a single .zip
 > Click on the green "Code" button, and then click on "Download ZIP".
@@ -24,12 +30,12 @@ publicly inherit from `Wordlist_base`, and use the `Node` `struct` (given in
 `Wordlist`) to implement a doubly-linked list.
 
 [Wordlist.h](Wordlist.h) has the class `Wordlist` where it implements all
-the virtual methods listed in the `Wordlist_base` class (in
-[Wordlist_base.h](Wordlist_base.h)).
+the virtual methods listed in the `Wordlist_base` class (in [Wordlist_base.h](Wordlist_base.h)).
 
 ### Implement Constructors, and a Destructor
 
 In addition to the virtual methods listed in `Wordlist_base`, in your `Wordlist`
+
 class there is a _default constructor_ that takes no parameters and creates an
 empty `Wordlist` object:
 
