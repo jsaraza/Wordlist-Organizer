@@ -13,15 +13,9 @@ for one case described below: the method `get_sorted_index()`, which returns a
 
 [a1_main.cpp](a1_main.cpp). In `main` you should call the testing code for your
 `Wordlist` class.
-=======
 
-> **Note** You can download all the files for this assignment in a single .zip
-> Click on the green "Code" button, and then click on "Download ZIP".
->
-> > > > > > > 0e50674132cb68458403319893ecf13323679e75
-
-> **Note** You can download all the files for this assignment in a single .zip
-> Click on the green "Code" button, and then click on "Download ZIP".
+**Note** You can download all the files for this assignment in a single .zip
+Click on the green "Code" button, and then click on "Download ZIP".
 
 ### Implement the Methods in Wordlist_base
 
